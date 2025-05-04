@@ -5,7 +5,7 @@
 🎬 Movie Search & Favorites Web App
 Crafted with ❤️ using HTML | CSS | JavaScript | OMDB API
 
-Hey LinkedIn fam!
+
 Excited to share my latest project — A fully functional & aesthetic Movie Search App that not only searches your favorite movies but now also allows you to save them in a Favorites list ⭐️
 
 
