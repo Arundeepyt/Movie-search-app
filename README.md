@@ -49,7 +49,7 @@ This small project taught me about:
 ⭐ Feedback Welcome!
 If you liked it, do leave a ❤️ or ⭐ on GitHub — Your support matters!
 
-#WebDevelopment #FrontendDeveloper #JavaScript #UIUX #CodingLife #OpenSource #ProjectShowcase #Tech #MovieApp #CodingJourney #HTML #CSS #JavaScriptProjects #LearningEveryday
+
 
 
 ---
